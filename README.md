@@ -1,7 +1,7 @@
 # NetThreatAI
 # NetThreatAI — ML-Powered Network Threat Detection
 
-> Système dedétection de menaces réseau en temps réel basé sur un ensemble de modèles Machine Learning (Random Forest + Isolation Forest + Autoencoder), déployable sur Kali Linux.
+> Système de détection de menaces réseau en temps réel basé sur un ensemble de modèles Machine Learning (Random Forest + Isolation Forest + Autoencoder), déployable sur Kali Linux.
 
 ---
 
