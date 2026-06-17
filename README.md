@@ -238,7 +238,7 @@ Après entraînement sur CICIDS2017 :
 
 ---
 
-## Avertissement 
+
 
 Ce projet est développé **exclusivement à des fins éducatives et de recherche en cybersécurité**.
 
